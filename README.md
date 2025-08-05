@@ -1,5 +1,133 @@
 # learnwinai.github.io
 
+# 🎯 How to Achieve Your Most Ambitious Goals – One Tiny Decision at a Time
+
+What if becoming extraordinary didn’t require talent?
+
+That’s the premise Stephen Duneier explores in his brilliant TEDx talk, *"How to Achieve Your Most Ambitious Goals."* A fund manager, professor, and adventurer, Duneier isn't someone you'd expect to struggle with focus. But he opens with a story that sets the tone perfectly—and humorously.
+
+---
+
+## 🧩 Brad Pitt and the Grey Square
+
+He asks his audience:
+
+> “Who here can replicate a photograph of Brad Pitt?”
+
+Silence.
+
+Then he asks:
+
+> “Okay… how many of you can draw a grey square?”
+
+Laughter.
+
+That moment unlocks the key idea: **breaking down the intimidating into the doable**. Duneier introduces artist Chuck Close, who replicates complex portraits by painting thousands of grey squares. His message: *You don't have to be a genius. You just need a process.*
+
+---
+
+## 🧠 The Myth of Talent, the Power of Process
+
+We often assume that high achievers are born different—more gifted, more disciplined, more everything. But Duneier dismantles that idea:
+
+> “Success is the result of tiny, consistent, smart decisions made repeatedly over time.”
+
+It’s not about grand gestures. It’s about the **compounding power of micro-choices**.
+
+### 🎾 Novak Djokovic: From Average to Unstoppable
+
+Take **Novak Djokovic**.
+
+In his early career, Novak was **prone to injuries, poor stamina, and emotional outbursts**. Critics doubted whether he’d ever win more than a few major titles. He was good—but *not great*.
+
+Then he made **tiny, deliberate changes**:
+
+- Adopted a **gluten-free diet**
+- Transformed his **training and recovery routines**
+- Practiced **mindfulness and mental conditioning**
+- Focused on **marginal gains** in breathing, movement, and flexibility
+
+Those seemingly small decisions created a monumental shift.
+
+**The result?**
+- From 1 Grand Slam in 2011 → **24 Grand Slams** as of 2025
+- **Most weeks at ATP World No. 1** in history
+- Widely regarded as the **GOAT (Greatest of All Time)**
+
+Novak didn’t just train harder—he *optimized better*.
+
+> He didn’t become great by talent alone.  
+> He became great by solving small problems deliberately and consistently.
+
+---
+
+## 🛠️ Active Decisions > Passive Dreams
+
+Duneier shares his own transformation. Once a **C+ student**, labeled as “bright but can’t focus,” he turned things around not by becoming smarter—but by becoming **intentional**.
+
+- Became an *active participant* in his life
+- Broke down complex tasks into **tiny steps he could definitely do**
+- Built a **routine** of small wins
+
+And just like that—he became an A student.
+
+---
+
+## 🔁 The Compounding Effect in Action
+
+He started applying this method everywhere:
+
+| Goal | Small Change |
+|------|--------------|
+| Learn German | Listened during commutes & took 15-day immersion |
+| Cut Temptation | Built structure around his *lack* of discipline |
+| Lose Weight | Leveraged his love of the outdoors |
+| Read 50 Books/Year | Made one decision: pick up a book, not the phone |
+| Run Treks & Marathons | Built stamina by making the *next* good decision |
+
+> “If you don’t make the right decision on the couch, there’s no decision to be made at the top of the mountain.”
+
+---
+
+## 🎨 Yarn Bombing & Parkour
+
+In 2012, he committed to 12 new skills in 12 months. That meant a year of intentional discomfort: learning **parkour**, **drumming**, and even **knitting** (thanks to his wife's suggestion).
+
+He didn’t just knit—he turned it into **massive yarn art installations** that were featured in:
+
+- *Newsweek*
+- *ArtNews*
+- *Santa Barbara Seasons*
+- Graffiti Beach, and more
+
+Still, he insists:
+
+> “I’m just a C- guy who can’t focus for more than 10 minutes.”
+
+His achievements aren’t from gifts—they’re from **building systems that allow tiny wins to stack into big results**.
+
+---
+
+## 💡 Takeaway: How You Can Start Today
+
+1. **Choose a big goal** – Something ambitious, even intimidating.
+2. **Break it down** – What’s the *grey square* version of this task?
+3. **Pick a micro-action** – Something you can succeed at *today*.
+4. **Remove friction** – Build systems for your known weaknesses.
+5. **Repeat** – Don’t chase perfection. Just show up. Every day.
+
+---
+
+## ✍️ Final Word
+
+Duneier’s story reminds us that greatness isn’t some unreachable summit—it’s the outcome of thousands of tiny, seemingly insignificant decisions made well. Over and over.
+
+> “No special gift. No superhuman discipline. Just decisions.”
+
+So, what decision can you make *right now*—before the scroll, before the snack, before the self-doubt—that future-you will thank you for?
+
+---
+
 --- 
 # **Learning Body Language: Tiny Tweaks, Big Changes**
 
