@@ -126,7 +126,36 @@ Duneier’s story reminds us that greatness isn’t some unreachable summit—it
 
 So, what decision can you make *right now*—before the scroll, before the snack, before the self-doubt—that future-you will thank you for?
 
+
 ---
+
+## 📚 Further Exploration & Metadata
+
+### 🎥 Primary Talk
+- **Title**: How to Achieve Your Most Ambitious Goals  
+- **Speaker**: Stephen Duneier  
+- **Event**: TEDxTucson  
+- **Date Published**: December 2017  
+- **Video URL**: [https://www.youtube.com/watch?v=TQMbvJNRpLE](https://www.youtube.com/watch?v=TQMbvJNRpLE)  
+- **Content Type**: TEDx Talk (Video, ~17 minutes)
+
+### 🧵 Related Profiles
+- **Stephen Duneier's Website**: [https://www.bamalogic.com](https://www.bamalogic.com)  
+- **Art Project (Yarn Bombing)**: [https://www.bamagami.com](https://www.bamagami.com)
+
+### 🎾 Novak Djokovic Reference
+- **Notable Stats (as of 2025)**:
+  - 24 Grand Slam Titles  
+  - Most weeks ranked World No. 1 in ATP history  
+  - Widely regarded as the GOAT of tennis  
+- **Key Optimization Areas**:
+  - Gluten-free diet, mindfulness, mobility training, marginal gains philosophy
+
+### 📄 Transcript (Optional)
+- **TED Official Transcript**: [https://amara.org/videos/TKg8g8F9KXth/](https://amara.org/videos/TKg8g8F9KXth/)
+
+---
+
 
 --- 
 # **Learning Body Language: Tiny Tweaks, Big Changes**
