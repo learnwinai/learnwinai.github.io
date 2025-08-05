@@ -139,6 +139,16 @@ So, what decision can you make *right now*—before the scroll, before the snack
 - **Video URL**: [https://www.youtube.com/watch?v=TQMbvJNRpLE](https://www.youtube.com/watch?v=TQMbvJNRpLE)  
 - **Content Type**: TEDx Talk (Video, ~17 minutes)
 
+### 🧵 TL;DR — Key Concepts from the Talk
+- Ambitious goals are achievable through **tiny, consistent decisions**, not raw talent.
+- Break down complex tasks into simple, doable units (like "grey squares").
+- Focus on **marginal gains** — small improvements that compound over time.
+- Build routines around your weaknesses, not just your strengths.
+- Success comes from being an **active decision-maker**, not a passive dreamer.
+
+### 🧑‍🎓 Speaker Bio
+- **Stephen Duneier** is a decision strategist, former hedge fund manager, professor, and large-scale yarn artist. He uses deliberate decision-making to transform seemingly impossible goals into achievable realities.
+
 ### 🧵 Related Profiles
 - **Stephen Duneier's Website**: [https://www.bamalogic.com](https://www.bamalogic.com)  
 - **Art Project (Yarn Bombing)**: [https://www.bamagami.com](https://www.bamagami.com)
