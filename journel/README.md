@@ -72,12 +72,13 @@ General tips for all logging methods 
     - begin my making a priority list of all the signals and noises, for just one day.
     - start by doing what will work for you in the long run, your purposeful work, called signal.
     - then intermix by doing one noisy work.
+  3. I need to have good conversations for real ideas to pop up.
 
 ---
 
 - **An Ongoing Narrative in Mind | Common with previous Writeups | Storytelling of my perspective | My Life's Story** : 
   1. Lets intermix my ideas together with laughs at end on instagram posts
-  2. Point Two
+  2. The reason to have good conversations every day is one to stay in sync and two to allow the new ideas to come to you because when you talk to yourself you do help yourself go deeper, but you still kinda need someone to talk breadth of topics to you and also contradict so you can learn. Its very much in line to Sam Altman's note taking methodology, this is what will keep your brain fresh.
 
 ---
 
