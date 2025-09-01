@@ -1,49 +1,5 @@
 # Journel
 
-# Template
-
-
-- **Date / Time** : September 1 2025 / 02:55 
-
----
-- **Write about an Event | Something Notable** : 
-  1. Point One
-  2. Point Two
-
----
-
-- **What went well | Something proud of | Achievements** :
-  1. Point One
-  2. Point Two
-
----
-
-- (super important) **What didn't went well | Something that went wrong | Rejections** :
-  1. Point One
-  2. Point Two
-
----
-
-- **An Ongoing Narrative in Mind | Common with previous Writeups | Storytelling of my perspective | My Life's Story** : 
-  1. Point One
-  2. Point Two
-
----
-
-- **Mind | Oh My Fleeting Mind** :
-  1. Point One
-  2. Point Two
-
----
-
-- **Pending** :
-  1. Point One
-  2. Point Two
-
----
----
-
-
 # **Date / Time** : September-01-2025 / 02:55 
 
 ---
@@ -104,6 +60,49 @@
   - Optimize for productivity
   - Make a time-table
   - get fridge
+
+---
+---
+
+# Template
+
+
+- **Date / Time** : September 1 2025 / 02:55 
+
+---
+- **Write about an Event | Something Notable** : 
+  1. Point One
+  2. Point Two
+
+---
+
+- **What went well | Something proud of | Achievements** :
+  1. Point One
+  2. Point Two
+
+---
+
+- (super important) **What didn't went well | Something that went wrong | Rejections** :
+  1. Point One
+  2. Point Two
+
+---
+
+- **An Ongoing Narrative in Mind | Common with previous Writeups | Storytelling of my perspective | My Life's Story** : 
+  1. Point One
+  2. Point Two
+
+---
+
+- **Mind | Oh My Fleeting Mind** :
+  1. Point One
+  2. Point Two
+
+---
+
+- **Pending** :
+  1. Point One
+  2. Point Two
 
 ---
 ---
