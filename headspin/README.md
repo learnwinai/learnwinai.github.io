@@ -2,15 +2,14 @@
 
 # Run Platform Services Locally
 
-- Reference : https://headspin.atlassian.net/wiki/spaces/HTO/pages/974815235/Run+platform+services+locally
+- [Reference](https://headspin.atlassian.net/wiki/spaces/HTO/pages/974815235/Run+platform+services+locally)
 
 # Running UI & API 
 
 ## Building UI
 
 - If a local instance of ui is required that depends on the local instance of api, the ui web app will need to be prepared.
-- Reference : 
-https://github.com/projectxyzio/web/tree/master/ui.headspin.io
+- [Reference](https://github.com/projectxyzio/web/tree/master/ui.headspin.io)
 
 
 Use nvm to install or use the correct Node.js version defined in .nvmrc
@@ -32,7 +31,7 @@ npm ci
 ```
 
 
-The dev server will serve the UI on http://localhost:9100.
+The dev server will serve the UI on [http://localhost:9100](http://localhost:9100).
 
 By default, the UI will connect to HeadSpin services (uiend, api and others) on localhost.
 
